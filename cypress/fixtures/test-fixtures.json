@@ -1,0 +1,52 @@
+{
+   "validSearchTerm": "Money",
+   "invalidSearchTerm": "__null",
+   "starRatings": [
+        "1 star and up",
+        "2 stars and up",
+        "3 stars and up",
+        "4 stars and up",
+        "5 stars"
+    ],
+    "awardOptions":
+    [
+        "All award winners",
+        "Exceptional winners", 
+        "Platinum winners", 
+        "Gold winners", 
+        "Trusted winners"
+    ],
+    "categoryOptions": [
+        "Animal & Pets",
+        "Baby & Toddler",
+        "Business Services",
+        "Clothing & Fashion",
+        "Construction & Manufacturing",
+        "Education & Training",
+        "Electronics & Technology",
+        "Food, Beverages & Tobacco",
+        "Healthcare & Beauty",
+        "Home & Garden",
+        "Money & Insurance",
+        "Property",
+        "Recruitment",
+        "Retail",
+        "Sports & Entertainment",
+        "Toys & Games",
+        "Trade",
+        "Travel & Tourism",
+        "Vehicles & Transportation",
+        "Wholesale Distribution"
+    ],
+    "sortByOptions":
+    [
+       "Name - (A - Z)", 
+       "Name - (Z - A)", 
+       "Rating - (Low - High)", 
+       "Rating - (High - Low)"
+    ],
+    "defaultResultMessage":
+        "Showing companies with All Categories and All Merchants of All Ratings"
+
+    
+}
